@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "noorsandhu",
+      "first_name": "harnoor",
+      "email": "harnoorkaur.sandhu@rdpolytech.ca"
+    },
+    {
+      "id": 2,
+      "username": "harnoorkaur.sandhu@rdpolytech.ca",
+      "first_name": "harnoor",
+      "email": "noorsandhu6131@gmail.com"
+    }
+  ]
+}
